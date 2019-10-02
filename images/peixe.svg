@@ -11,9 +11,9 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg8"
    version="1.1"
-   viewBox="0 0 134.9375 42.333345"
-   height="160"
-   width="510"
+   viewBox="0 0 92.604164 29.104175"
+   height="110"
+   width="350"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="peixe.svg">
   <defs
@@ -50,19 +50,6 @@
          result="composite2"
          id="feComposite1592" />
     </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5669"
-       x="-0.26740888"
-       width="1.5348177"
-       y="-0.13429867"
-       height="1.2685972">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.1897273"
-         id="feGaussianBlur5671" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -71,9 +58,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="344.6294"
-     inkscape:cy="255.25931"
+     inkscape:zoom="1.4"
+     inkscape:cx="156.30538"
+     inkscape:cy="-18.73805"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -92,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -102,7 +89,7 @@
      inkscape:label="Grid"
      sodipodi:insensitive="true"
      style="display:none"
-     transform="translate(0,-93.133333)">
+     transform="translate(0,-106.3625)">
     <g
        id="g3785"
        inkscape:label="Grid_Polar:X5:Y5"
@@ -1633,22 +1620,22 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Shadow"
-     transform="translate(0,-93.133333)" />
+     transform="translate(0,-106.3625)" />
   <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-254.66662)"
+     transform="translate(0,-267.89579)"
      style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Eye"
      style="display:inline"
-     transform="translate(0,-93.133333)">
+     transform="translate(0,-106.3625)">
     <g
        id="g6465"
-       transform="matrix(0.8084333,0,0,0.8084333,18.888705,53.568756)">
+       transform="matrix(0.8084333,0,0,0.8084333,-2.7601268,59.934876)">
       <path
          sodipodi:nodetypes="cssscc"
          inkscape:connector-curvature="0"
@@ -1687,15 +1674,16 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="ShadowFont"
-     transform="translate(0,-93.133333)" />
+     transform="translate(0,-106.3625)" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Font"
-     transform="translate(0,-93.133333)">
+     transform="translate(0,-106.3625)">
     <g
        id="g6480"
-       transform="translate(-1.8708867,38.224915)">
+       transform="translate(-23.519719,44.591035)"
+       style="">
       <g
          transform="translate(-0.47247024,0.85044643)"
          id="g6473">
