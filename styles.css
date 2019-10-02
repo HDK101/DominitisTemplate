@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    box-shadow: 0px 0px 10px black;
+    /*Content*/
+    padding-top: 10px;
+    padding-left: 15px;
+    /*Background*/
+    width: 100%;
+    height: 45px;
+    background-color: black;
+    /*Logo*/
+    color: gainsboro;
+    font-size: 32px
+}
+
+html {
+    background-image: url("images/water.jpg");
+    height: 100%;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*
+
+TAGS
+
+*/
+
+#first_div {
+    height: 350px;
+    width: auto;
+    /*Content*/
+    padding-top: 210px;
+    /*Background*/
+    background-color: rgba(0, 0, 0, 0.171);
+    /*Font*/
+    text-align: center;
+    font-size: 60px;
+}
+
+#white_div {
+    /*Size*/
+    height: auto;
+    min-height: 1000px;
+    width: auto;
+    /*Shadow*/
+    box-shadow: 0px 0px 20px black;
+    /*Content*/
+    padding: 50px;
+    /*Background*/
+    background-color: rgb(255, 255, 255);
+    /*Font*/
+    text-align: center;
+}
+
+/*
+
+CLASSES
+
+*/
+
+.info_box {
+    /*Shadow*/
+    box-shadow: 5px 5px 20px black;
+    /*Background*/
+    background-color: rgb(175, 200, 229);
+    border: 20px solid rgb(175, 200, 229);
+    border-radius: 20px;
+    /*Size*/
+    height: 700px;
+    width: auto;
+    margin: 5px 5px 60px 5px;
+    /*Font*/
+    font-family: Courier, monospace;
+    color: rgb(24, 24, 24)
+}
+
+.info_box h1 {
+    font-size: 56px;
+    margin: 30px;
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.171)
+}
+
+.info_box p
+{
+    font-size: 24px;
+    margin: 20px;
+    font-family: Helvetica, sans-serif;
+}
