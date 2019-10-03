@@ -23,6 +23,8 @@ header a
     font-size: 24px;
     margin: 15px;
     font-family: Courier, monospace;
+    color: white;
+    text-shadow: 1px 1px rgba(255, 255, 255, 0.171);
 }
 
 /*
