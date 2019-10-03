@@ -3,15 +3,9 @@
     margin: 0;
 }
 
-/*
 html {
-    background-image: url("images/water.jpg");
-    height: 100%;
-    width: auto;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: rgb(142, 213, 255)
 }
-*/
 
 header {
     box-shadow: 0px 0px 10px black;
@@ -71,7 +65,7 @@ CLASSES
 */
 
 .container {
-    width: 80%;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
     margin: 0 auto;
