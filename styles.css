@@ -57,21 +57,6 @@ TAGS
     box-shadow: 0px 0px 20px black;
 }
 
-#white_div {
-    /*Size*/
-    height: auto;
-    min-height: 1000px;
-    width: auto;
-    /*Shadow*/
-    box-shadow: 0px 0px 20px black;
-    /*Content*/
-    padding: 50px;
-    /*Background*/
-    background-color: rgb(255, 255, 255);
-    /*Font*/
-    text-align: center;
-}
-
 /*
 
 CLASSES
@@ -83,6 +68,21 @@ CLASSES
     margin-left: auto;
     margin-right: auto;
     margin: 0 auto;
+}
+
+.white_div {
+    /*Size*/
+    height: auto;
+    min-height: 400px;
+    width: auto;
+    /*Shadow*/
+    box-shadow: 0px 0px 20px black;
+    /*Content*/
+    padding: 50px;
+    /*Background*/
+    background-color: rgb(255, 255, 255);
+    /*Font*/
+    text-align: center;
 }
 
 .info_box {
@@ -110,5 +110,24 @@ CLASSES
 .info_box p {
     font-size: 24px;
     margin: 20px;
+    font-family: Helvetica, sans-serif;
+}
+
+.contact_box.white_div
+{
+     /*Content*/
+     padding: 20px;
+}
+
+.contact_box h1 {
+    font-size: 64px;
+    margin: 20px;
+    font-family: Courier, monospace;
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.171)
+}
+
+.contact_box p {
+    font-size: 36px;
+    margin: 10px;
     font-family: Helvetica, sans-serif;
 }
