@@ -57,6 +57,12 @@ TAGS
     box-shadow: 0px 0px 20px black;
 }
 
+#first_div img
+{
+    display:block;
+    margin:auto;
+}
+
 /*
 
 CLASSES
