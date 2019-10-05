@@ -15,7 +15,23 @@ header {
     background-color: black;
     /*Logo*/
     color: gainsboro;
-    font-size: 32px
+    font-size: 32px;
+}
+
+footer {
+    /*Background*/
+    width: 100%;
+    background-color: black;
+    height: 45px;
+}
+
+footer p {
+    /*Text*/
+    color: gainsboro;
+    font-size: 12px;
+    font-family: Helvetica, sans-serif;
+    padding-top: 15px;
+    padding-left: 30px;
 }
 
 /*
@@ -24,13 +40,11 @@ TAGS
 
 */
 
-#header_nav
-{
+#header_nav {
     float: right;
 }
 
-#header_nav a
-{
+#header_nav a {
     text-decoration: none;
     font-size: 24px;
     margin: 5px;
@@ -39,8 +53,7 @@ TAGS
     text-shadow: 1px 1px rgba(255, 255, 255, 0);
 }
 
-#header_nav a:hover
-{
+#header_nav a:hover {
     color: black;
     background-color: white;
     text-shadow: 1px 1px rgba(255, 255, 255, 0.178);
@@ -60,15 +73,13 @@ TAGS
     background-image: url("images/water.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-
     /*Misc*/
     box-shadow: 0px 0px 20px black;
 }
 
-#first_div img
-{
-    display:block;
-    margin:auto;
+#first_div img {
+    display: block;
+    margin: auto;
 }
 
 /*
@@ -87,7 +98,7 @@ CLASSES
 .white_div {
     /*Size*/
     height: auto;
-    min-height: 400px;
+    min-height: 600px;
     width: auto;
     /*Shadow*/
     box-shadow: 0px 0px 20px black;
@@ -127,10 +138,9 @@ CLASSES
     font-family: Helvetica, sans-serif;
 }
 
-.contact_box.white_div
-{
-     /*Content*/
-     padding: 20px;
+.contact_box.white_div {
+    /*Content*/
+    padding: 20px;
 }
 
 .contact_box h1 {
