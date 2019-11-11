@@ -60,10 +60,10 @@ TAGS
 }
 
 #first_div {
-    height: 350px;
+    height: 250px;
     width: auto;
     /*Content*/
-    padding-top: 210px;
+    padding-top: 100px;
     /*Background*/
     background-color: rgba(0, 0, 0, 0.171);
     /*Font*/
@@ -89,7 +89,7 @@ CLASSES
 */
 
 .container {
-    width: 90%;
+    width: auto;
     margin-left: auto;
     margin-right: auto;
     margin: 0 auto;
@@ -103,7 +103,7 @@ CLASSES
     /*Shadow*/
     box-shadow: 0px 0px 20px black;
     /*Content*/
-    padding: 50px;
+    padding: 10px;
     /*Background*/
     background-color: rgb(255, 255, 255);
     /*Font*/
@@ -122,11 +122,13 @@ CLASSES
     width: auto;
     margin: 5px 5px 60px 5px;
     /*Font*/
-    color: rgb(24, 24, 24)
+    color: rgb(24, 24, 24);
+    /*Counteudo*/
+    overflow: hidden;
 }
 
 .info_box h1 {
-    font-size: 56px;
+    font-size: 36px;
     margin: 30px;
     font-family: Courier, monospace;
     text-shadow: 3px 3px rgba(0, 0, 0, 0.171)
@@ -154,4 +156,11 @@ CLASSES
     font-size: 36px;
     margin: 10px;
     font-family: Helvetica, sans-serif;
+}
+
+.img_box {
+    width: 75%;
+    height: 75%;
+    text-align: center;
+    margin: auto;
 }
